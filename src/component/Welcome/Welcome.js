@@ -15,12 +15,12 @@ function Welcome(){
                 <img alt='' src={frontofclg}  className='pic'/>
              </div> 
              <div className='welcomepic3'>
-                <img alt='' src={swamiji} alt="" className='pic2'/>
+                <img alt='' src={swamiji} className='pic2'/>
                 <h3 className='swamijifooter'>Dr.Shivamurthy Shivacharya Mahaswamiji</h3>
              </div>
              <div className='welcomepic12'>
-                 <img alt='' src={library} alt="" className='pic'/>
-                 <img alt=''src={inside} alt="" className='pic' />
+                 <img alt='' src={library} className='pic'/>
+                 <img alt=''src={inside}  className='pic' />
              </div>
            </div>
         </div>
