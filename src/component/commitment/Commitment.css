@@ -1,0 +1,19 @@
+.commitment{
+    padding: 20px;
+    background: #EDF7FF
+}
+.commitfont{
+    justify-content: center;
+    padding: 35px;
+}
+.commit{
+    display: flex;
+    padding: 10px;
+}
+.clgpic1{
+    height: 300px;
+}
+.comment{
+color: green;
+font-size: 50px;
+}

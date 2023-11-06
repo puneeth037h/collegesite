@@ -1,0 +1,12 @@
+.footer{
+    background-image: url('./image/ba.jpg');
+    background-size:  1520px;
+    height: 600px;
+    color: white;
+    font-size: 50px;
+    background-repeat: no-repeat;
+}
+.footerfont{
+    margin: 10px 300px 10px 300px;
+    justify-content: center;
+}

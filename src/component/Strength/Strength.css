@@ -1,0 +1,23 @@
+.str1{
+    display: flex;
+    padding: 10px 100px 10px 100px;
+    justify-content: center;
+
+}
+.str2{
+    font-size: 40px;
+    width: 300px;
+    margin: 20px;
+    justify-content: center;
+    background-color: orange;
+    border-radius: 100%;
+    color: white;
+}
+.str2:hover{
+    background-color: green;
+    transition:.5s;
+}
+.strength{
+    font-size: 50px;
+    color: green;
+}
