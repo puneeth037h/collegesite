@@ -5,7 +5,7 @@ function Clgimage()
 {
     return(
         <div className='clgimage'>
-           <img src={clgimage} alt="image"className='clgpic'></img>
+           <img src={clgimage} className='clgpic'></img>
         </div>
     );
 }
