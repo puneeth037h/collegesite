@@ -5,13 +5,16 @@
 
 }
 .str2{
-    font-size: 40px;
-    width: 300px;
-    margin: 20px;
+    font-size: 35px;
+    width: 280px; 
+     margin: 20px; 
     justify-content: center;
     background-color: orange;
-    border-radius: 100%;
+     border-radius: 50%;
     color: white;
+}
+.strength1{
+    display: flex;
 }
 .str2:hover{
     background-color: green;
