@@ -8,7 +8,7 @@ import './Welcome.css'
 function Welcome(){
     return(
         <div className='wlcpic'>
-           <h1 className='wlcfont'>Welcome To Our College</h1>
+           <h1 className='wlcfont'>Hi everyone</h1>
            <div className='welcomepic'>
              <div className='welcomepic1'>
                 <img  alt=''src={frontview} className='pic'/>
