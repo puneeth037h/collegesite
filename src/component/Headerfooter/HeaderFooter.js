@@ -1,5 +1,6 @@
 import './Header.css';
 import phlogo from './image/telephone-symbol-button.png'
+import './Footer.css'
 
 function Header(){
     return(
@@ -13,4 +14,17 @@ function Header(){
      </div>
     );
 }
-export default Header;
+ 
+
+function Footer(){
+    return(
+      <div className='footer'>
+        <p>Epigram</p>
+           <br/>
+        <p className='footerfont'>" Don`t study to earn, Study to learn
+What you learn today, Is what you will Become 
+tomorrow "</p>
+      </div>
+    );
+}
+export  {Footer,Header};
